@@ -1,2 +1,0 @@
-# agroculture
-agriculture farm management
